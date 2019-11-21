@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "../public/img/memes-01.svg",
+    "description": "This is Fine"
+  },
+  {
+    "id": 2,
+    "image": "../public/img/memes-02.svg",
+    "description": "Super High Guy"
+  },
+  {
+    "id": 3,
+    "image": "../public/img/memes-03.svg",
+    "description": "WTF Face Girl"
+  },
+  {
+    "id": 4,
+    "image": "../public/img/memes-04.svg",
+    "description": "Distracted Boyfriend"
+  },
+  {
+    "id": 5,
+    "image": "../public/img/memes-05.svg",
+    "description": "First World Problems"
+  },
+  {
+    "id": 6,
+    "image": "../public/img/memes-06.svg",
+    "description": "Disaster Girl"
+  },
+  {
+    "id": 7,
+    "image": "../public/img/memes-07.svg",
+    "description": "Overly Attached Girlfriend"
+  },
+  {
+    "id": 8,
+    "image": "../public/img/memes-08.svg",
+    "description": "Grumpy Cat"
+  }
+]
