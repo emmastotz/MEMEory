@@ -1,24 +1,25 @@
 import React from "react";
 import "./style.css";
+import logo from "./logo.svg"
 
 const Nav = props => (
   <nav className="navbar">
-    <ul>
-      <li className="brand animated lightSpeedIn">
+    <ul className="nav justify-content-end">
+      <li className="nav-item">
         <a 
-          href="/meme-ory/" 
-          className="navbar-brand">{props.title}
+          href="_blank" 
+          className="navbar-brand">
           <img 
-            src={require('./logo.svg')}
+            src={logo}
             alt="logo"
           ></img>
         </a>
       </li>
-      <li 
-        id="cur-score">Current Score: {props.score}
+      <li className="nav-item" id="cur-score">
+        Current Score: {props.score}
       </li>
-      <li 
-        id="top-score">Top Score: {props.topScore}
+      <li className="nav-item" id="top-score">
+        Top Score: {props.topScore}
       </li>
     </ul>
   </nav>

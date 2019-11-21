@@ -72,13 +72,13 @@ class App extends Component{
         />
 
         <Title>
-          |Try to click on each meme only once|
+          Try to click on each meme only once.
         </Title>
 
         <Container>
           <Row>
             {this.state.memes.map(meme => (
-              <Column size="sm-3">  
+              <Column size="sm-3 md-4">  
                 <MemeCard
                   key = {meme.id}
                   id = {meme.id}
@@ -89,7 +89,6 @@ class App extends Component{
             ))}
           </Row>
         </Container>
-        
       </Wrapper>
     )
   };

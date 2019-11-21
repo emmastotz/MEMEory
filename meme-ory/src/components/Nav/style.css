@@ -1,11 +1,15 @@
 nav {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
   width: 100%;
   font-size: 1rem;
-  color: rgb(43, 84, 40);
+  color: white;
   margin-bottom: 20px;
-  background-color: transparent;
+  background-color: rgb(43, 84, 40);
   height: auto;
-  font-family: 'Ubuntu', sans-serif;;
+  font-family: 'Alatsi', sans-serif;
 }
 
 a {

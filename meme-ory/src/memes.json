@@ -1,42 +1,62 @@
 [
   {
     "id": 1,
-    "image": "../public/img/memes-01.svg",
+    "image": "https://i.imgur.com/mMbjm2R.png",
     "description": "This is Fine"
   },
   {
     "id": 2,
-    "image": "./memes-02.svg",
+    "image": "https://i.imgur.com/yUeT9Kb.png",
     "description": "Super High Guy"
   },
   {
     "id": 3,
-    "image": "../public/img/memes-03.svg",
+    "image": "https://i.imgur.com/kpocnGg.png",
     "description": "WTF Face Girl"
   },
   {
     "id": 4,
-    "image": "../public/img/memes-04.svg",
+    "image": "https://i.imgur.com/gdvflY2.png",
     "description": "Distracted Boyfriend"
   },
   {
     "id": 5,
-    "image": "../public/img/memes-05.svg",
+    "image": "https://i.imgur.com/yh3qUun.png",
     "description": "First World Problems"
   },
   {
     "id": 6,
-    "image": "../public/img/memes-06.svg",
+    "image": "https://i.imgur.com/I8GN8bp.png",
     "description": "Disaster Girl"
   },
   {
     "id": 7,
-    "image": "../public/img/memes-07.svg",
+    "image": "https://i.imgur.com/wUDDFCR.png",
     "description": "Overly Attached Girlfriend"
   },
   {
     "id": 8,
-    "image": "../public/img/memes-08.svg",
+    "image": "https://i.imgur.com/H9rHbpl.png",
     "description": "Grumpy Cat"
+  },
+  {
+    "id": 9,
+    "image": "https://i.imgur.com/eoogz39.png",
+    "description": "Willy Wonka"
+  },
+  {
+    "id": 10,
+    "image": "https://i.imgur.com/KWHbG4E.png",
+    "description": "Thinking Guy"
+  },
+  {
+    "id": 11,
+    "image": "https://i.imgur.com/71BHA2O.png",
+    "description": "Success Baby"
+  },
+  {
+    "id": 12,
+    "image": "https://i.imgur.com/fjdIunn.png",
+    "description": "Great Gatsby"
   }
 ]
