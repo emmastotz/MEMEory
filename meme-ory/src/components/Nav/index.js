@@ -1,15 +1,18 @@
-  
 import React from "react";
 import "./style.css";
 
 const Nav = props => (
-  <nav>
+  <nav className="navbar">
     <ul>
       <li className="brand animated lightSpeedIn">
-        <a href="/meme-ory/">{props.title}</a>
-      </li>
-      <li 
-        id="rw">{props.shout}
+        <a 
+          href="/meme-ory/" 
+          className="navbar-brand">{props.title}
+          <img 
+            src={require('./logo.svg')}
+            alt="logo"
+          ></img>
+        </a>
       </li>
       <li 
         id="cur-score">Current Score: {props.score}

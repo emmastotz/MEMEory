@@ -6,7 +6,7 @@
   },
   {
     "id": 2,
-    "image": "../public/img/memes-02.svg",
+    "image": "./memes-02.svg",
     "description": "Super High Guy"
   },
   {
