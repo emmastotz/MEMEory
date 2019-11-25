@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/MEMEory/static/css/main.2a4d0aa4.chunk.css",
-    "main.js": "/MEMEory/static/js/main.0113c79d.chunk.js",
-    "main.js.map": "/MEMEory/static/js/main.0113c79d.chunk.js.map",
+    "main.css": "/MEMEory/static/css/main.96eaf692.chunk.css",
+    "main.js": "/MEMEory/static/js/main.6c727b34.chunk.js",
+    "main.js.map": "/MEMEory/static/js/main.6c727b34.chunk.js.map",
     "runtime-main.js": "/MEMEory/static/js/runtime-main.585ca169.js",
     "runtime-main.js.map": "/MEMEory/static/js/runtime-main.585ca169.js.map",
     "static/js/2.3025f259.chunk.js": "/MEMEory/static/js/2.3025f259.chunk.js",
     "static/js/2.3025f259.chunk.js.map": "/MEMEory/static/js/2.3025f259.chunk.js.map",
     "index.html": "/MEMEory/index.html",
-    "precache-manifest.3b8bdf20cd8a9dcaa27bddddb4f39eb2.js": "/MEMEory/precache-manifest.3b8bdf20cd8a9dcaa27bddddb4f39eb2.js",
+    "precache-manifest.fa9dd390e9cdeae50b98f0dc5e8e3695.js": "/MEMEory/precache-manifest.fa9dd390e9cdeae50b98f0dc5e8e3695.js",
     "service-worker.js": "/MEMEory/service-worker.js",
-    "static/css/main.2a4d0aa4.chunk.css.map": "/MEMEory/static/css/main.2a4d0aa4.chunk.css.map",
+    "static/css/main.96eaf692.chunk.css.map": "/MEMEory/static/css/main.96eaf692.chunk.css.map",
+    "static/media/index.css": "/MEMEory/static/media/comic-book.2e88ebc0.png",
     "static/media/logo-01.png": "/MEMEory/static/media/logo-01.f883a604.png"
   },
   "entrypoints": [
     "static/js/runtime-main.585ca169.js",
     "static/js/2.3025f259.chunk.js",
-    "static/css/main.2a4d0aa4.chunk.css",
-    "static/js/main.0113c79d.chunk.js"
+    "static/css/main.96eaf692.chunk.css",
+    "static/js/main.6c727b34.chunk.js"
   ]
 }
