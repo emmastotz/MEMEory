@@ -1,15 +1,18 @@
-nav {
+.navbar {
   position: fixed;
   top: 0;
   right: 0;
   left: 0;
   width: 100%;
+  height: auto;
   font-size: 1rem;
   color: white;
-  margin-bottom: 20px;
   background-color: rgb(43, 84, 40);
-  height: auto;
   font-family: 'Alatsi', sans-serif;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  padding-bottom: 0;
+  z-index: 1;
+  flex-wrap: nowrap;
 }
 
 a {
@@ -21,15 +24,15 @@ a:hover {
   text-decoration: none;
 }
 
-nav li {
+li {
   display: inline-block;
-  padding: 26px 0;
   width: 25%;
+  float: right;
 }
 
 ul {
-  display: flex;
-  align-items: center;
+  /* display: flex;
+  align-items: center; */
 }
 
 @media only screen and (max-width: 750px) {
