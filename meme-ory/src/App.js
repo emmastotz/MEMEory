@@ -4,6 +4,7 @@ import Title from "./components/Title";
 import MemeCard from "./components/MemeCard";
 import memes from "./memes.json";
 import Nav from "./components/Nav";
+import "./style.css";
 
 function shuffleMemes(array) {
   for (let i = array.length - 1; i > 0; i--) {
@@ -86,6 +87,14 @@ class App extends Component{
           ))}
           </div>
         </div>
+        <footer class="footer footer-home">
+          <div class="container">
+            <p>
+              <a>Created by Emma</a> | 
+              <a href="https://github.com/emmastotz/MEMEory">GitHub Repo</a>
+            </p>
+          </div>
+        </footer>
       </div>
     )
   };

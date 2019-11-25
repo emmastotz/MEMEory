@@ -9,7 +9,7 @@
   color: white;
   background-color: rgb(43, 84, 40);
   font-family: 'Alatsi', sans-serif;
-  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, .5), 0 3px 6px rgba(0, 0, 0, .5);
   padding-bottom: 0;
   z-index: 1;
   flex-wrap: nowrap;

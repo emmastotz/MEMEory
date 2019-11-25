@@ -5,8 +5,9 @@
   margin: 5%;
   position: relative;
   top: 50px;
+  bottom: 50px;
   width: 250px;
-  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, .5), 0 3px 6px rgba(0, 0, 0, .5);
   border: 5px solid  rgb(34, 83, 2);
   z-index: 0;
 }
@@ -27,5 +28,5 @@
 
 .grow:hover { 
   transform: scale(1.1);
-  box-shadow: 0 7px 10px #999, 0 7px 10px #999;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, .5), 0 3px 6px rgba(0, 0, 0, .5);
 }
